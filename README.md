@@ -1,16 +1,14 @@
 # clock_ap
 
-A new Flutter project.
+A flutter project for analogue clock 
 
-## Getting Started
+light theme
 
-This project is a starting point for a Flutter application.
+![light_theme_clock](https://user-images.githubusercontent.com/90405133/217287646-2d1a408a-1d53-4f5d-9a74-dce05fbcc05b.png)
 
-A few resources to get you started if this is your first Flutter project:
+dark theme
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot_1675783288](https://user-images.githubusercontent.com/90405133/217287737-7ba9a8e3-7e7b-483f-8ee7-4bbdcb81f18c.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
