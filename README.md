@@ -4,7 +4,8 @@ A flutter project for analogue clock
 
 light theme
 
-![light_theme_clock](https://user-images.githubusercontent.com/90405133/217287646-2d1a408a-1d53-4f5d-9a74-dce05fbcc05b.png)
+ ![light_theme](https://user-images.githubusercontent.com/90405133/217288153-2cc4c567-29a7-47da-8a55-78fbb9ea193e.png)
+
 
 dark theme
 
